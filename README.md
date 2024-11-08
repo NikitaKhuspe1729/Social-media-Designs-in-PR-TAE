@@ -1,10 +1,11 @@
 # Social media Designs in PR-TAE
 Created social media designs for posting on Instagram & LinkedIn for TAE (Trinity Academy of Engineering, Pune) as a design Lead.
 
-# Format for posts
+# Finalized Formats
 ![post format light](https://github.com/user-attachments/assets/d41dbef1-e9fa-4f62-b65c-50568957fb09)
 ![post format dark](https://github.com/user-attachments/assets/2d90c9ca-aac2-4e40-b6a4-6736f849c8cc)
 ![birthday template](https://github.com/user-attachments/assets/1a1eead9-3137-4e4e-aa0c-aa652467ea5a)
+![placement format](https://github.com/user-attachments/assets/6e6278ba-01fb-4d47-841f-11c6ef1a5b9e)
 
 # Posts
 ![independence day](https://github.com/user-attachments/assets/c5b9b4c8-d62e-481a-a8b7-3ece80817a9a)
@@ -16,6 +17,17 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 ![engineers day-1](https://github.com/user-attachments/assets/caf4a495-7817-4b56-8da4-9569226acca5)
 ![engineers day](https://github.com/user-attachments/assets/07fbad78-14fc-4868-87da-6009cb2bbc99)
 ![dussehra](https://github.com/user-attachments/assets/c3c98917-a684-4e17-829d-f0cefb37ae79)
+![vasubaras-1](https://github.com/user-attachments/assets/41c7228a-df5b-4c4c-9574-34fae10d6e3a)
+![vasubaras](https://github.com/user-attachments/assets/7b19130a-fe4c-45af-9ed8-9c3f9b6a679d)
+![narak chaturdashi](https://github.com/user-attachments/assets/614ad853-4228-4d67-9b54-789a4f9e82c1)
+![bhaubij](https://github.com/user-attachments/assets/648515d5-de75-44a5-b990-5b760fbea454)
+![balipratipada](https://github.com/user-attachments/assets/f3e00a01-6ce8-4212-b0eb-50d01e198256)
 
+# Birthday
+![kalla sir](https://github.com/user-attachments/assets/2551619d-3eab-4675-a087-b87fe88c9717)
 
+# Placement
+![vanderlande](https://github.com/user-attachments/assets/5c0f9156-6df0-4f13-ab85-42a9453ef7b0)
+![promobi](https://github.com/user-attachments/assets/be9b8bee-fea1-4ee5-a787-0b4c9b53bc30)
+![capgemini](https://github.com/user-attachments/assets/45e21e82-15ba-4c38-a11a-a920e598484d)
 
