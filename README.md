@@ -22,6 +22,13 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 ![narak chaturdashi](https://github.com/user-attachments/assets/614ad853-4228-4d67-9b54-789a4f9e82c1)
 ![bhaubij](https://github.com/user-attachments/assets/648515d5-de75-44a5-b990-5b760fbea454)
 ![balipratipada](https://github.com/user-attachments/assets/f3e00a01-6ce8-4212-b0eb-50d01e198256)
+![tulshi vivah](https://github.com/user-attachments/assets/6595e783-a8fd-403b-8d52-fb7d209cdad5)
+![children's day-1](https://github.com/user-attachments/assets/8803fe77-4a4f-4d31-b325-7be018e6c3d1)
+![children's day](https://github.com/user-attachments/assets/8cd94b71-f511-4dbb-b3f9-c4c6fd08a695)
+![gurunanak jayanti](https://github.com/user-attachments/assets/0abcda5c-b250-474b-af27-5300b9696a57)
+![voting 5](https://github.com/user-attachments/assets/96746fee-4ca3-4e42-a292-b9d878deb578)
+![voting 6](https://github.com/user-attachments/assets/79e14c78-8694-4ef0-b53d-440f038263b7)
+
 
 # Birthday
 ![kalla sir](https://github.com/user-attachments/assets/2551619d-3eab-4675-a087-b87fe88c9717)
