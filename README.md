@@ -1,4 +1,4 @@
-# Social media Designs in PR-TAE
+# Social media Designs in PR-TAE_FIGMA
 Created social media designs for posting on Instagram & LinkedIn for TAE (Trinity Academy of Engineering, Pune) as a design Lead.
 
 # Finalized Formats
@@ -37,4 +37,8 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 ![vanderlande](https://github.com/user-attachments/assets/5c0f9156-6df0-4f13-ab85-42a9453ef7b0)
 ![promobi](https://github.com/user-attachments/assets/be9b8bee-fea1-4ee5-a787-0b4c9b53bc30)
 ![capgemini](https://github.com/user-attachments/assets/45e21e82-15ba-4c38-a11a-a920e598484d)
+![MDN](https://github.com/user-attachments/assets/935642fc-b3fe-4fd7-b787-8b3576268765)
+![ITDebugger](https://github.com/user-attachments/assets/755d9ca6-9d6c-469f-9f6f-66fff7957f46)
+![vanderlande](https://github.com/user-attachments/assets/97ad6435-ce8b-43cc-9369-9aa3f18d1d60)
+![Eaglebyte](https://github.com/user-attachments/assets/0e900217-cd68-4ef3-9f91-452eedb2f49c)
 
