@@ -28,6 +28,8 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 ![gurunanak jayanti](https://github.com/user-attachments/assets/0abcda5c-b250-474b-af27-5300b9696a57)
 ![voting 5](https://github.com/user-attachments/assets/96746fee-4ca3-4e42-a292-b9d878deb578)
 ![voting 6](https://github.com/user-attachments/assets/79e14c78-8694-4ef0-b53d-440f038263b7)
+![11-1](https://github.com/user-attachments/assets/50fc3924-fb1a-4f3a-8caf-aaec7f842944)
+![11](https://github.com/user-attachments/assets/1fbf6831-b2b5-4a41-a90e-4d9de01581d2)
 
 
 # Birthday
