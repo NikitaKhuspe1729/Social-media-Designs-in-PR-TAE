@@ -1,5 +1,7 @@
 # Social media Designs in PR-TAE_FIGMA
 Created social media designs for posting on Instagram & LinkedIn for TAE (Trinity Academy of Engineering, Pune) as a design Lead.
+# Movie promotion poster
+![rukhvat 1](https://github.com/user-attachments/assets/7b630b80-868e-4c39-96f2-09d45645448d)
 
 # Finalized Formats
 ![post format light](https://github.com/user-attachments/assets/d41dbef1-e9fa-4f62-b65c-50568957fb09)
