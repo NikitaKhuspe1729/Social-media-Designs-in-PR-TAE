@@ -37,6 +37,8 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 # Birthday
 ![kalla sir](https://github.com/user-attachments/assets/2551619d-3eab-4675-a087-b87fe88c9717)
 ![vibhavari maam](https://github.com/user-attachments/assets/f64e559e-e056-4773-90c0-b03bc8050dca)
+![principal sir](https://github.com/user-attachments/assets/24d80bea-48a6-4416-8ca3-7788cb3e8269)
+
 
 
 # Placement
