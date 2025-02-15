@@ -53,3 +53,6 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 ![vanderlande](https://github.com/user-attachments/assets/97ad6435-ce8b-43cc-9369-9aa3f18d1d60)
 ![Eaglebyte](https://github.com/user-attachments/assets/0e900217-cd68-4ef3-9f91-452eedb2f49c)
 
+# Posters for sessions
+![Cooperative Relation session (2)](https://github.com/user-attachments/assets/7bd3f82a-9a01-454e-981c-0c8327d2adc7)
+![tcs ninja poster (1)](https://github.com/user-attachments/assets/e57fd0eb-709b-4a27-a137-2ebf2cec0434)
