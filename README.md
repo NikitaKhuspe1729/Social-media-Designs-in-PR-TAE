@@ -35,6 +35,7 @@ Created social media designs for posting on Instagram & LinkedIn for TAE (Trinit
 ![Christmas](https://github.com/user-attachments/assets/b84703b8-26f8-43de-8588-60aa19679420)
 ![Christmas (1)](https://github.com/user-attachments/assets/298bad8e-2eb1-422f-abb3-26847d67e60b)
 ![new year](https://github.com/user-attachments/assets/5fa0c2bd-e575-4860-b5ad-d3efd96216b3)
+![shivjayanti](https://github.com/user-attachments/assets/102b6ea3-4736-4b65-bed5-d1e5a2013a67)
 
 
 # Birthday
